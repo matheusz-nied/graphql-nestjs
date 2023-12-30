@@ -9,7 +9,7 @@
 
 ## Descrição
 
-Este projeto é uma aplicação backend desenvolvida com o NestJS, utilizando GraphQL como linguagem de consulta e o MongoDB como banco de dados.
+Este projeto é uma aplicação back-end desenvolvida com o NestJS, utilizando GraphQL como linguagem de consulta e o MongoDB como banco de dados.
 
 ## Tecnologias Utilizadas
 
