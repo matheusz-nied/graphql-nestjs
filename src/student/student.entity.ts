@@ -4,6 +4,7 @@ import { Column, Entity, ObjectIdColumn, PrimaryColumn } from 'typeorm';
 export class Student {
   @ObjectIdColumn()
   _id: string;
+  @ObjectIdColumn()
 
   @PrimaryColumn()
   id: string;
